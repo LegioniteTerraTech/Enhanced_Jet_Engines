@@ -1,0 +1,9 @@
+{
+  "Id": "legionite.enhancedjetengines",
+  "DisplayName": "Enhanced Jet Engines",
+  "Author": "MixedLegionite",
+  "Version": "1",
+  "Enable": true,
+  "AssemblyName": "Enhanced Jet Engines.dll",
+  "EntryMethod": "Enhanced_Jet_Engines.Class1.CreateBlocks"
+}
