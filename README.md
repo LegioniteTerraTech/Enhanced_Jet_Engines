@@ -1,4 +1,6 @@
 # Enhanced_Jet_Engines
 "Turbo Jets to go fast!"
 
-Under Heavy Testing- Pls wait
+Obsolete - Already possible with vanilla TerraTech Modules
+
+See TAC Pack - TAC Turbulence Jet Engine for further info.
